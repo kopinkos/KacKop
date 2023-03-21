@@ -1,3 +1,5 @@
+package Zadania1podste;
+
 public class Najlepszegry {
     public static void main(String[] args) {
         System.out.print("Według mnie najlepsze gry to:");

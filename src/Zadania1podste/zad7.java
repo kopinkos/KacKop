@@ -1,3 +1,5 @@
+package Zadania1podste;
+
 public class zad7 {
     public static void main(String[] args) {
         double firma_region_mazowiecki, całoroczna_sprzedaz, region_mazowiecki;

@@ -1,3 +1,5 @@
+package Zadania1podste;
+
 public class Zad2 {
     public static void main(String[] args) {
         //15.03.2023r.
